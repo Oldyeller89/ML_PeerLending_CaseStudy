@@ -25,3 +25,4 @@ case_study_data/1805_download/LoanStats_securev1_2017Q1.csv.zip
 case_study_data/1805_download/LoanStats_securev1_2017Q2.csv.zip
 case_study_data/1805_download/LoanStats_securev1_2017Q3.csv.zip
 case_study_data/1805_download/LoanStats_securev1_2017Q4.csv.zip
+loanData/clean_data.pickle

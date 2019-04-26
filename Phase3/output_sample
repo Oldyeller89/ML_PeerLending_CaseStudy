@@ -570,3 +570,7 @@
 1,L1 LogReg::all_cv_scores,[0.7997     0.79896667 0.8001     0.80053333 0.80066667 0.8006
  0.80066667 0.8007    ]
 1,L1 LogReg::roc_auc,0.7029151280352601
+1,Time stability test: 2016 to 2017::search_on_edge,False
+1,Time stability test: 2016 to 2017::score_variation,0.0
+1,Time stability test: 2016 to 2017::all_cv_scores,[0.89897959]
+1,Time stability test: 2016 to 2017::roc_auc,0.5916140307868147

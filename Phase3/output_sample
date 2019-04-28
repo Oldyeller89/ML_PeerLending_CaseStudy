@@ -945,3 +945,58 @@
 1,Lasso Regression::all_cv_scores,[-0.11385327 -0.11162371 -0.11443288 -0.12233007 -0.12660246 -0.12763099
  -0.12788495 -0.12803866 -0.12814189 -0.12817841]
 1,Lasso Regression::ret_INTb::r2,0.032985710816306746
+1,Lasso Regression::ret_PESS::search_on_edge,True
+1,Lasso Regression::ret_PESS::score_variation,-0.0
+1,Lasso Regression::all_cv_scores,[-2.92437628e+19]
+1,Lasso Regression::ret_PESS::r2,-5.793969853558433e+17
+1,Lasso Regression::ret_OPT::search_on_edge,True
+1,Lasso Regression::ret_OPT::score_variation,-0.0
+1,Lasso Regression::all_cv_scores,[-4.82685568e+18]
+1,Lasso Regression::ret_OPT::r2,-2.6071952165566748e+16
+1,Lasso Regression::ret_INTa::search_on_edge,True
+1,Lasso Regression::ret_INTa::score_variation,-0.0
+1,Lasso Regression::all_cv_scores,[-5.29275796e+19]
+1,Lasso Regression::ret_INTa::r2,-1.112944855926997e+18
+1,Lasso Regression::ret_INTb::search_on_edge,True
+1,Lasso Regression::ret_INTb::score_variation,-0.0
+1,Lasso Regression::all_cv_scores,[-3.49968597e+19]
+1,Lasso Regression::ret_INTb::r2,-6.999244191088052e+17
+1,Lasso Regression::ret_PESS::search_on_edge,True
+1,Lasso Regression::ret_PESS::score_variation,-0.0
+1,Lasso Regression::all_cv_scores,[-0.16460417 -0.16460417 -0.16460417 -0.16460417 -0.16460417 -0.16460417
+ -0.16460417]
+1,Lasso Regression::ret_PESS::r2,-1.368771307408423e-07
+1,Lasso Regression::ret_OPT::search_on_edge,True
+1,Lasso Regression::ret_OPT::score_variation,-0.0
+1,Lasso Regression::all_cv_scores,[-0.03371228 -0.03371228 -0.03371228 -0.03371228 -0.03371228 -0.03371228
+ -0.03371228]
+1,Lasso Regression::ret_OPT::r2,-8.313304489249163e-09
+1,Lasso Regression::ret_INTa::search_on_edge,True
+1,Lasso Regression::ret_INTa::score_variation,-0.0
+1,Lasso Regression::all_cv_scores,[-0.15585 -0.15585 -0.15585 -0.15585 -0.15585 -0.15585 -0.15585]
+1,Lasso Regression::ret_INTa::r2,-1.4367846645768623e-07
+1,Lasso Regression::ret_INTb::search_on_edge,True
+1,Lasso Regression::ret_INTb::score_variation,-0.0
+1,Lasso Regression::all_cv_scores,[-0.12371746 -0.12371746 -0.12371746 -0.12371746 -0.12371746 -0.12371746
+ -0.12371746]
+1,Lasso Regression::ret_INTb::r2,-1.3681301869183926e-07
+1,Ridge Regression::ret_PESS::search_on_edge,False
+1,Ridge Regression::ret_PESS::score_variation,-12.964881058420065
+1,Ridge Regression::all_cv_scores,[-0.15486972 -0.15030417 -0.15311412 -0.16252766 -0.16780934 -0.16908286
+ -0.16940922 -0.1696086  -0.1697432  -0.16979092]
+1,Ridge Regression::ret_PESS::r2,0.028402353755721088
+1,Ridge Regression::ret_OPT::search_on_edge,False
+1,Ridge Regression::ret_OPT::score_variation,-29.870995026519548
+1,Ridge Regression::all_cv_scores,[-0.03119494 -0.02829978 -0.02401994 -0.02475043 -0.02570319 -0.02643342
+ -0.02664841 -0.02678145 -0.02687176 -0.02690386]
+1,Ridge Regression::ret_OPT::r2,0.02023499897572789
+1,Ridge Regression::ret_INTa::search_on_edge,False
+1,Ridge Regression::ret_INTa::score_variation,-12.368771798301138
+1,Ridge Regression::all_cv_scores,[-0.14664604 -0.14420693 -0.14644579 -0.15545775 -0.16051197 -0.1615313
+ -0.16176983 -0.16191337 -0.16200956 -0.16204356]
+1,Ridge Regression::ret_INTa::r2,0.032602970759043615
+1,Ridge Regression::ret_INTb::search_on_edge,False
+1,Ridge Regression::ret_INTb::score_variation,-14.830808928613113
+1,Ridge Regression::all_cv_scores,[-0.11385327 -0.11162371 -0.11443288 -0.12233007 -0.12660246 -0.12763099
+ -0.12788495 -0.12803866 -0.12814189 -0.12817841]
+1,Ridge Regression::ret_INTb::r2,0.032985710816306746

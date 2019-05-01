@@ -1465,3 +1465,109 @@
 1,MLPerceptron::score_variation,0.0
 1,MLPerceptron::all_cv_scores,[0.78296667]
 1,MLPerceptron::roc_auc,0.6566035885389745
+1,L1 LogReg::search_on_edge,True
+1,L1 LogReg::score_variation,0.13721413721413594
+1,L1 LogReg::all_cv_scores,[0.80166667 0.80126667 0.80076667 0.80056667 0.8006     0.8006
+ 0.80056667 0.80056667]
+1,L1 LogReg::roc_auc,0.6407277649643024
+1,L1 LogReg::search_on_edge,True
+1,L1 LogReg::score_variation,0.14553014553014335
+1,L1 LogReg::all_cv_scores,[0.80166667 0.80076667 0.8005     0.8005     0.8005     0.80056667
+ 0.80056667 0.8005    ]
+1,L1 LogReg::roc_auc,0.6950250910783893
+1,Random,ret_PESS::average return,0.004029550657944385
+1,Random,ret_OPT::average return,0.04608788010110167
+1,Random,ret_INTa::average return,0.013672004285673094
+1,Random,ret_INTb::average return,0.05425396101418318
+1,Default-based,ret_PESS::average return,0.018047728831715595
+1,Default-based,ret_OPT::average return,0.043286299319012685
+1,Default-based,ret_INTa::average return,0.011888663314413992
+1,Default-based,ret_INTb::average return,0.05633735322092228
+1,Return-based,ret_PESS::average return,0.02620965824700449
+1,Return-based,ret_OPT::average return,0.044490975937778045
+1,Return-based,ret_INTa::average return,0.010912832035271384
+1,Return-based,ret_INTb::average return,0.054368310997790284
+1,Return-based,ret_PESS::average return,0.02620965824700449
+1,Return-based,ret_OPT::average return,0.044490975937778045
+1,Return-based,ret_INTa::average return,0.010912832035271384
+1,Return-based,ret_INTb::average return,0.054368310997790284
+1,Ridge Regression::ret_PESS::search_on_edge,False
+1,Ridge Regression::ret_PESS::score_variation,-52.62249900720093
+1,Ridge Regression::all_cv_scores,[-0.16542075 -0.13487788 -0.12427603 -0.15693932 -0.18634598 -0.18967318
+ -0.18932586 -0.18853545 -0.18748065 -0.18701104]
+1,Ridge Regression::ret_PESS::r2,0.05154252023490091
+1,Ridge Regression::ret_PESS::search_on_edge,False
+1,Ridge Regression::ret_PESS::score_variation,-94.83649949757836
+1,Ridge Regression::all_cv_scores,[-0.22316938 -0.14897395 -0.11454187 -0.12460499 -0.14641764 -0.15278689
+ -0.1537881  -0.15432441 -0.15466614 -0.15478558]
+1,Ridge Regression::ret_PESS::r2,0.10482741976664045
+1,Ridge Regression::ret_OPT::search_on_edge,True
+1,Ridge Regression::ret_OPT::score_variation,69.45166608768984
+1,Ridge Regression::all_cv_scores,[0.07461192 0.19054608 0.23978763 0.24267486 0.24128316 0.2416533
+ 0.24211604 0.24276482 0.24369425 0.24424221]
+1,Ridge Regression::ret_OPT::r2,0.2280906313598028
+1,Ridge Regression::ret_OPT::search_on_edge,False
+1,Ridge Regression::ret_OPT::score_variation,-89.35788170482411
+1,Ridge Regression::all_cv_scores,[-0.2119819  -0.14306379 -0.11194776 -0.12214827 -0.14377143 -0.15010159
+ -0.15109519 -0.15162644 -0.1519644  -0.15208242]
+1,Ridge Regression::ret_OPT::r2,0.10256538196180465
+1,Ridge Regression::ret_INTa::search_on_edge,False
+1,Ridge Regression::ret_INTa::score_variation,-73.03654434299993
+1,Ridge Regression::all_cv_scores,[-0.1201742  -0.09489347 -0.0900911  -0.12071887 -0.14925867 -0.15436557
+ -0.15514209 -0.15555447 -0.15580748 -0.15589052]
+1,Ridge Regression::ret_INTa::r2,0.055131404150567165
+1,Ridge Regression::ret_INTa::search_on_edge,False
+1,Ridge Regression::ret_INTa::score_variation,-19.284355724483632
+1,Ridge Regression::all_cv_scores,[-0.27193386 -0.26358973 -0.26064082 -0.27471543 -0.30052317 -0.30831731
+ -0.30957543 -0.3102691  -0.31073288 -0.31090372]
+1,Ridge Regression::ret_INTa::r2,0.02973503444155068
+1,Ridge Regression::ret_INTb::search_on_edge,False
+1,Ridge Regression::ret_INTb::score_variation,-123.58345903962599
+1,Ridge Regression::all_cv_scores,[-0.08006606 -0.05252472 -0.04575616 -0.07158129 -0.09652456 -0.10097287
+ -0.10164515 -0.10200417 -0.10222789 -0.10230321]
+1,Ridge Regression::ret_INTb::r2,0.05667980534446837
+1,Ridge Regression::ret_INTb::search_on_edge,False
+1,Ridge Regression::ret_INTb::score_variation,-20.269833338639256
+1,Ridge Regression::all_cv_scores,[-0.26603384 -0.25614751 -0.25251274 -0.26675608 -0.29308121 -0.30105743
+ -0.30234307 -0.30305075 -0.30352299 -0.30369665]
+1,Ridge Regression::ret_INTb::r2,0.03222559500119748
+1,Default-return-based,ret_PESS::average return,0.02754324701399825
+1,Default-return-based,ret_OPT::average return,0.04206286574913919
+1,Default-return-based,ret_INTa::average return,0.011846569930103289
+1,Default-return-based,ret_INTb::average return,0.056519030965905645
+1,Default-return-based,ret_PESS::average return,0.02754324701399825
+1,Default-return-based,ret_OPT::average return,0.04206286574913919
+1,Default-return-based,ret_INTa::average return,0.011846569930103289
+1,Default-return-based,ret_INTb::average return,0.056519030965905645
+1,Default-return-based,ret_PESS::average return,0.02754324701399825
+1,Default-return-based,ret_OPT::average return,0.04206286574913919
+1,Default-return-based,ret_INTa::average return,0.011846569930103289
+1,Default-return-based,ret_INTb::average return,0.056519030965905645
+1,Default-return-based,ret_PESS::average return,0.02754324701399825
+1,Default-return-based,ret_OPT::average return,0.04206286574913919
+1,Default-return-based,ret_INTa::average return,0.011846569930103289
+1,Default-return-based,ret_INTb::average return,0.056519030965905645
+1,Default-return-based,ret_PESS::average return,0.02754324701399825
+1,Default-return-based,ret_OPT::average return,0.04206286574913919
+1,Default-return-based,ret_INTa::average return,0.011846569930103289
+1,Default-return-based,ret_INTb::average return,0.056519030965905645
+1,Default-return-based,ret_PESS::average return,0.02754324701399825
+1,Default-return-based,ret_OPT::average return,0.04206286574913919
+1,Default-return-based,ret_INTa::average return,0.011846569930103289
+1,Default-return-based,ret_INTb::average return,0.056519030965905645
+1,Default-return-based,ret_PESS::average return,0.02754324701399825
+1,Default-return-based,ret_OPT::average return,0.04206286574913919
+1,Default-return-based,ret_INTa::average return,0.011846569930103289
+1,Default-return-based,ret_INTb::average return,0.056519030965905645
+1,Default-return-based,ret_PESS::average return,0.02754324701399825
+1,Default-return-based,ret_OPT::average return,0.04206286574913919
+1,Default-return-based,ret_INTa::average return,0.011846569930103289
+1,Default-return-based,ret_INTb::average return,0.056519030965905645
+1,Default-return-based,ret_PESS::average return,0.02754324701399825
+1,Default-return-based,ret_OPT::average return,0.04206286574913919
+1,Default-return-based,ret_INTa::average return,0.011846569930103289
+1,Default-return-based,ret_INTb::average return,0.056519030965905645
+1,Default-return-based,ret_PESS::average return,0.02754324701399825
+1,Default-return-based,ret_OPT::average return,0.04206286574913919
+1,Default-return-based,ret_INTa::average return,0.011846569930103289
+1,Default-return-based,ret_INTb::average return,0.056519030965905645

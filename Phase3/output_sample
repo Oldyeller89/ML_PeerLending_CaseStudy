@@ -1830,3 +1830,48 @@
  -0.07011936 -0.05568982 -0.05273386 -0.0623241  -0.05494511 -0.04986566
  -0.07062191 -0.06117863 -0.05518728 -0.06259903 -0.056634   -0.05425454]
 1,Random Forest Regression::ret_OPT::r2,0.02681877324787807
+1,Naive Bayes::search_on_edge,True
+1,Naive Bayes::score_variation,48.71155814678001
+1,Naive Bayes::all_cv_scores,[0.74896667 0.74543333 0.73453333 0.70303333 0.64933333 0.5752
+ 0.48573333 0.38413333]
+1,Naive Bayes::roc_auc,0.6764984238931412
+1,Naive Bayes::search_on_edge,True
+1,Naive Bayes::score_variation,48.71155814678001
+1,Naive Bayes::all_cv_scores,[0.74896667 0.74543333 0.73453333 0.70303333 0.64933333 0.5752
+ 0.48573333 0.38413333]
+1,Naive Bayes::roc_auc,0.6764984238931412
+1,Naive Bayes::search_on_edge,True
+1,Naive Bayes::score_variation,48.71155814678001
+1,Naive Bayes::all_cv_scores,[0.74896667 0.74543333 0.73453333 0.70303333 0.64933333 0.5752
+ 0.48573333 0.38413333]
+1,Naive Bayes::roc_auc,0.6764984238931412
+1,Naive Bayes::search_on_edge,True
+1,Naive Bayes::score_variation,48.71155814678001
+1,Naive Bayes::all_cv_scores,[0.74896667 0.74543333 0.73453333 0.70303333 0.64933333 0.5752
+ 0.48573333 0.38413333]
+1,Naive Bayes::roc_auc,0.6764984238931412
+1,Naive Bayes::search_on_edge,True
+1,Naive Bayes::score_variation,48.71155814678001
+1,Naive Bayes::all_cv_scores,[0.74896667 0.74543333 0.73453333 0.70303333 0.64933333 0.5752
+ 0.48573333 0.38413333]
+1,Naive Bayes::roc_auc,0.6764984238931412
+1,Naive Bayes::search_on_edge,True
+1,Naive Bayes::score_variation,48.71155814678001
+1,Naive Bayes::all_cv_scores,[0.74896667 0.74543333 0.73453333 0.70303333 0.64933333 0.5752
+ 0.48573333 0.38413333]
+1,Naive Bayes::roc_auc,0.6764984238931412
+1,Naive Bayes::search_on_edge,True
+1,Naive Bayes::score_variation,48.71155814678001
+1,Naive Bayes::all_cv_scores,[0.74896667 0.74543333 0.73453333 0.70303333 0.64933333 0.5752
+ 0.48573333 0.38413333]
+1,Naive Bayes::roc_auc,0.6764984238931412
+1,Naive Bayes::search_on_edge,True
+1,Naive Bayes::score_variation,48.71155814678001
+1,Naive Bayes::all_cv_scores,[0.74896667 0.74543333 0.73453333 0.70303333 0.64933333 0.5752
+ 0.48573333 0.38413333]
+1,Naive Bayes::roc_auc,0.6764984238931412
+1,Naive Bayes::search_on_edge,True
+1,Naive Bayes::score_variation,48.71155814678001
+1,Naive Bayes::all_cv_scores,[0.74896667 0.74543333 0.73453333 0.70303333 0.64933333 0.5752
+ 0.48573333 0.38413333]
+1,Naive Bayes::roc_auc,0.6764984238931412

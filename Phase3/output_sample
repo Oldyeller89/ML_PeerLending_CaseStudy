@@ -2335,3 +2335,8 @@
 1,Default-return-based,ret_OPT::average return,0.04441548398302601
 1,Default-return-based,ret_INTa::average return,0.010862478284949578
 1,Default-return-based,ret_INTb::average return,0.05603302614377071
+1,Time stability test: 2010 trained 2017 tested::search_on_edge,True
+1,Time stability test: 2010 trained 2017 tested::score_variation,1.4893617021276526
+1,Time stability test: 2010 trained 2017 tested::all_cv_scores,[0.88762984 0.88762984 0.88385269 0.87724268 0.87724268 0.87818697
+ 0.87440982 0.87440982]
+1,Time stability test: 2010 trained 2017 tested::roc_auc,0.5

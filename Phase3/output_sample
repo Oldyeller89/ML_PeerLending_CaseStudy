@@ -2387,3 +2387,13 @@
  -0.09749106 -0.09458113 -0.09838257 -0.09397681 -0.09856306 -0.09327872
  -0.12067624 -0.11560757 -0.11570525 -0.11416774 -0.115092   -0.10931689]
 1,Random Forest Regression::ret_INTb::r2,0.05821073690355982
+1,Time stability test: 2010 trained 2017 tested::search_on_edge,True
+1,Time stability test: 2010 trained 2017 tested::score_variation,1.2359550561797779
+1,Time stability test: 2010 trained 2017 tested::all_cv_scores,[0.90816327 0.90816327 0.90714286 0.90204082 0.90102041 0.89897959
+ 0.89897959 0.89693878]
+1,Time stability test: 2010 trained 2017 tested::roc_auc,0.5
+1,L1 LogReg::search_on_edge,True
+1,L1 LogReg::score_variation,2.8770249541696358
+1,L1 LogReg::all_cv_scores,[0.89096667 0.8657     0.86533333 0.86643333 0.86756667 0.86763333
+ 0.87063333 0.87043333]
+1,L1 LogReg::roc_auc,0.8420813929245697

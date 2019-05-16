@@ -1,5 +1,4 @@
-# Daniel Lesser, Joseph Standerfer, Ghazal Erfani Machine Learning and Problem Solving final project
-
+# Daniel Lesser, Joseph Standerfer, Ghazal Erfani Machine Learning and Problem Solving Case Study
 A joint project to explore microloans from LendingTree.  The data went through three phases of work: exploratory, cleaning, and machine learning algorithms.  Classification techniques were used to identify whether loans were likely to default or not.  Regression models were used to predict returns on loans.
 
 ## Getting Started

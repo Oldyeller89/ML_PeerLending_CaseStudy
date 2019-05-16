@@ -3,7 +3,7 @@ A joint project to explore microloans from LendingTree.  The data went through t
 
 ## Getting Started
 
-This project requires you to install Anaconda 3.7 and make use of Jupyter Notebooks for Python.  All packages should be installed based on the import statements at the top of the IPYNB file.  All Python work is saved in CS-Phase 3-Rev4.ipynb.
+This project requires you to install Anaconda 3.7 and make use of Jupyter Notebooks for Python.  All packages should be installed based on the import statements at the top of the IPYNB file.  All Python work is saved in Phase3/CS-Phase 3-Rev4.ipynb.
 
 The data is too large to load into github, so please reach out to the author of this repository for access.
 
